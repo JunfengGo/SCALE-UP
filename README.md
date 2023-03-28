@@ -1,4 +1,3 @@
-# SCALE-UP
 This is the official implementation of our paper '[SCALE-UP: An Efficient Black-box Input-level Backdoor Detection via Analyzing Scaled Prediction Consistency](https://openreview.net/pdf?id=o0LFPcoFKnr)', accepted in ICLR 2023. This research project is developed based on Python 3 and Pytorch, created by [Junfeng Guo](https://personal.utdallas.edu/~jxg170016/) and [Yiming Li](http://liyiming.tech/).
 
 
