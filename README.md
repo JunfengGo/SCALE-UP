@@ -29,4 +29,4 @@ python torch_model_wrapper.py
 ```
 to extract SPC scores for different poisoned models. The SPC scores will be stored in the saved_np/ file.
 
-You can change the path in process("saved_np/WaNet/tiny_bd.npy") to test SCALE-UP for other attacks (e.g., ISSBA, TUAP). You can craft poisoned samples and models using [BackdoorBox](https://github.com/THUYimingLi/BackdoorBox).
+You can change the path in process ("saved_np/WaNet/tiny_bd.npy") to test SCALE-UP for other attacks (e.g., ISSBA, TUAP). You can craft poisoned samples and models using [BackdoorBox](https://github.com/THUYimingLi/BackdoorBox).
